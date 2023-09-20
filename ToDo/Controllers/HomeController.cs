@@ -5,7 +5,6 @@ using Todo.Models;
 namespace Todo.Controllers;
 
 [ApiController]
-
 public class HomeController : ControllerBase
 {
     #region HttpGetAll
